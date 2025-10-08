@@ -60,5 +60,7 @@ _Voir `requirements.txt` pour la liste complète._
 Merci à la communauté Hugging Face et aux contributeurs aux modèles open-source.
 
 ---
-
+git add README.md
+git commit -m "Amélioration du README pour déploiement Hugging Face Spaces"
+git push
 *Projet réalisé par Moise / alicembeto-prog.*
